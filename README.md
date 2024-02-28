@@ -1,1 +1,1 @@
-方便使用github raw而创建的项目
+方便使用github raw而创建的库
