@@ -1,0 +1,63 @@
+{
+  "Google.list": [
+   "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list",
+   "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Google.list"
+  ],
+  "GoogleFCM.list": [
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GoogleFCM/GoogleFCM.list",
+  "https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/user_rule/GoogleFCM.list"
+  ],
+  "DownloadCDN_CN.list": [
+  "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/DownloadCDN_CN.list"
+  ],
+  "Emby.list": [
+  "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Emby.list",
+  "https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/user_rule/emby.list"
+  ],
+  "Talkatone.list": [
+  "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Talkatone.list"
+  ],
+  "Steam.list": [
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list"
+  ],
+  "Steam_CN.list": [
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list",
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload.list",
+  "https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/user_rule/steam_CN.list"
+  ],
+  "EH-Hentai.list": [
+   "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EHGallery/EHGallery.list"
+  ],
+  "Telegram.list": [
+   "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list",
+   "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Telegram.list"
+  ],
+  "OpenAi.list": [
+   "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list",
+   "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/OpenAI.list"
+  ],
+  "TikTok.list": [
+   "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list",
+   "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/TikTok.list"
+  ],
+  "PayPal.list": [
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/PayPal.list",
+  "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/PayPal.list"
+  ],
+  "Twitter.list": [
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Twitter/Twitter.list",
+  "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Twitter.list"
+  ],
+  "Wikimedia.list": [
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Wikimedia/Wikimedia.list"
+  ],
+  "DiDi.list": [
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DiDi/DiDi.list"
+  ],
+  "Gemini.list": [
+  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.list"
+  ],
+  "Weibo.list": [
+   "https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/user_rule/Weibo.list"
+  ]
+}

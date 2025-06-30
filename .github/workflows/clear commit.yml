@@ -1,0 +1,50 @@
+name: Clear Commits
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clear-commits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: clash
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git config --global advice.detachedHead false
+
+      - name: Rewrite Git History
+        run: |
+          git checkout --orphan temp-branch
+          git add -A
+          git commit -m "Initial commit after history clear"
+          git branch -D clash || true
+          git branch -m clash
+          git push -f origin clash
+
+      - name: Cleanup Workflow Runs
+        run: |
+          # 使用 GitHub API 删除工作流记录
+          echo "Cleaning up workflow runs..."
+          RUNS_URL="https://api.github.com/repos/${{ github.repository }}/actions/runs"
+          RUNS_RESPONSE=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" "$RUNS_URL")
+          RUN_IDS=$(echo "$RUNS_RESPONSE" | jq -r '.workflow_runs[].id')
+
+          for RUN_ID in $RUN_IDS; do
+            echo "Deleting run $RUN_ID..."
+            curl -s -X DELETE -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" "$RUNS_URL/$RUN_ID"
+          done
+          echo "Workflow runs cleanup completed."
+
+      - name: Post-Cleanup Check
+        run: echo "History cleared successfully at $(date)"

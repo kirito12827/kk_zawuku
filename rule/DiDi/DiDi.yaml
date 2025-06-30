@@ -1,0 +1,37 @@
+# 规则名称: DiDi
+# 规则数量: 25
+# 同步时间: 2025年06月30日 10:19
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 25
+# DOMAIN-KEYWORD: 0
+# PROCESS-NAME: 0
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# IP-SUFFIX: 0
+
+payload:
+  - DOMAIN-SUFFIX,apptaxi.com.cn
+  - DOMAIN-SUFFIX,cxyule.com
+  - DOMAIN-SUFFIX,didi-food.com
+  - DOMAIN-SUFFIX,didi.cn
+  - DOMAIN-SUFFIX,didi.xin
+  - DOMAIN-SUFFIX,didialift.com
+  - DOMAIN-SUFFIX,didiapp.net.cn
+  - DOMAIN-SUFFIX,didiaustralia.blog
+  - DOMAIN-SUFFIX,didichuxing.com
+  - DOMAIN-SUFFIX,didiglobal.com
+  - DOMAIN-SUFFIX,didimobility.co.jp
+  - DOMAIN-SUFFIX,didimobility.com
+  - DOMAIN-SUFFIX,didiopenapi.com
+  - DOMAIN-SUFFIX,didiqiche.com
+  - DOMAIN-SUFFIX,didistatic.com
+  - DOMAIN-SUFFIX,diditaxi.com
+  - DOMAIN-SUFFIX,diditaxi.com.cn
+  - DOMAIN-SUFFIX,didiwuxian.com
+  - DOMAIN-SUFFIX,didiyun.com
+  - DOMAIN-SUFFIX,didiyun.org
+  - DOMAIN-SUFFIX,didiyunapi.com
+  - DOMAIN-SUFFIX,juyanwenjuan.com
+  - DOMAIN-SUFFIX,udache.com
+  - DOMAIN-SUFFIX,xiaojuchefu.cn
+  - DOMAIN-SUFFIX,xiaojukeji.com

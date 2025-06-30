@@ -1,0 +1,18 @@
+# 规则名称: EH-Hentai
+# 规则数量: 7
+# 同步时间: 2025年06月30日 10:19
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 6
+# DOMAIN-KEYWORD: 0
+# PROCESS-NAME: 0
+# IP-CIDR: 1
+# IP-CIDR6: 0
+# IP-SUFFIX: 0
+
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,hentaiverse.org
+IP-CIDR,178.175.128.0/21,no-resolve

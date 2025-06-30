@@ -1,0 +1,19 @@
+# 规则名称: Weibo
+# 规则数量: 8
+# 同步时间: 2025年06月30日 10:19
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 6
+# DOMAIN-KEYWORD: 1
+# PROCESS-NAME: 1
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# IP-SUFFIX: 0
+
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,wbimg.cn
+DOMAIN-SUFFIX,wbimg.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-KEYWORD,weibo
+PROCESS-NAME,com.sina.weibog3

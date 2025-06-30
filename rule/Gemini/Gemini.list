@@ -1,0 +1,24 @@
+# 规则名称: Gemini
+# 规则数量: 13
+# 同步时间: 2025年06月30日 10:19
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 7
+# DOMAIN-KEYWORD: 3
+# PROCESS-NAME: 0
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# IP-SUFFIX: 0
+
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage

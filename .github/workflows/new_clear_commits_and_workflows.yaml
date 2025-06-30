@@ -1,0 +1,61 @@
+name: Clear History and Cleanup Workflows
+
+on:
+  workflow_dispatch:
+
+jobs:
+  clear-and-cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+
+    steps:
+      # 第一步：检出仓库
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: clash
+          fetch-depth: 0
+
+      # 第二步：配置Git
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git config --global advice.detachedHead false
+
+      # 第三步：重写Git历史
+      - name: Rewrite Git History
+        run: |
+          git checkout --orphan temp-branch
+          git add -A
+          git commit -m "Initial commit after history clear"
+          git branch -D clash || true
+          git branch -m clash
+          git push -f origin clash
+
+      # 第四步：清理工作流运行记录
+      - name: Cleanup Workflow Runs
+        run: |
+          echo "Starting workflow runs cleanup..."
+          # 获取所有工作流运行（排除当前运行）
+          RUNS_URL="https://api.github.com/repos/${{ github.repository }}/actions/runs"
+          RUNS_RESPONSE=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" "$RUNS_URL?per_page=100")
+          RUN_IDS=$(echo "$RUNS_RESPONSE" | jq -r --arg current_run "${{ github.run_id }}" '.workflow_runs[] | select(.id != ($current_run | tonumber)) | .id')
+
+          echo "Found $(echo "$RUN_IDS" | wc -w) runs to delete (excluding current run ${{ github.run_id }})"
+
+          # 删除所有匹配的工作流运行
+          for RUN_ID in $RUN_IDS; do
+            echo "Deleting run $RUN_ID..."
+            curl -s -X DELETE -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" "$RUNS_URL/$RUN_ID"
+          done
+          echo "Workflow runs cleanup completed."
+
+      # 第五步：完成确认
+      - name: Completion Check
+        run: |
+          echo "History cleared and workflows cleaned up successfully at $(date)"
+          echo "Branch 'clash' has been reset to a single commit"
+          echo "All previous workflow runs have been deleted"

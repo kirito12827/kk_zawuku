@@ -1,0 +1,12 @@
+# 规则名称: GoogleFCM 
+# 规则数量: 2 
+# DOMAIN: 0 
+# DOMAIN-SUFFIX: 0 
+# DOMAIN-KEYWORD: 0 
+# PROCESS-NAME: 0 
+# IP-CIDR: 2 
+# IP-CIDR6: 0 
+# IP-SUFFIX: 0 
+
+IP-CIDR,142.251.170.188/32,no-resolve
+IP-CIDR,173.194.174.188/32,no-resolve
