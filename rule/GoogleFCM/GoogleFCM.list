@@ -1,11 +1,11 @@
 # 规则名称: GoogleFCM
-# 规则数量: 43
-# 同步时间: 2025年07月03日 10:08
+# 规则数量: 50
+# 同步时间: 2025年07月03日 10:56
 # DOMAIN: 15
 # DOMAIN-SUFFIX: 0
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
-# IP-CIDR: 28
+# IP-CIDR: 35
 # IP-CIDR6: 0
 # IP-SUFFIX: 0
 
@@ -26,10 +26,12 @@ DOMAIN,mtalk.google.com
 DOMAIN,mtalk4.google.com
 IP-CIDR,108.177.125.188/32,no-resolve
 IP-CIDR,142.250.10.188/32,no-resolve
+IP-CIDR,142.250.101.188/32,no-resolve
 IP-CIDR,142.250.31.188/32,no-resolve
 IP-CIDR,142.250.4.188/32,no-resolve
 IP-CIDR,142.250.96.188/32,no-resolve
 IP-CIDR,142.251.170.188/32,no-resolve
+IP-CIDR,142.251.190.188/32,no-resolve
 IP-CIDR,172.217.194.188/32,no-resolve
 IP-CIDR,172.217.218.188/32,no-resolve
 IP-CIDR,172.217.219.188/32,no-resolve
@@ -37,7 +39,12 @@ IP-CIDR,172.253.122.188/32,no-resolve
 IP-CIDR,172.253.63.188/32,no-resolve
 IP-CIDR,173.194.174.188/32,no-resolve
 IP-CIDR,173.194.175.188/32,no-resolve
+IP-CIDR,173.194.208.188/32,no-resolve
 IP-CIDR,173.194.218.188/32,no-resolve
+IP-CIDR,192.178.131.188/32,no-resolve
+IP-CIDR,192.178.162.188/32,no-resolve
+IP-CIDR,192.178.164.188/32,no-resolve
+IP-CIDR,192.178.212.188/32,no-resolve
 IP-CIDR,209.85.233.188/32,no-resolve
 IP-CIDR,64.233.177.188/32,no-resolve
 IP-CIDR,64.233.186.188/32,no-resolve

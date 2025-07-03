@@ -1,7 +1,7 @@
 # GoogleFCM
 
 ## 规则统计
-最后同步时间: 2025年07月03日 10:08
+最后同步时间: 2025年07月03日 10:56
 
 | 类型        | 数量(条) |
 | ----------- | -------- |
@@ -9,10 +9,10 @@
 | DOMAIN-SUFFIX | 0        |
 | DOMAIN-KEYWORD | 0        |
 | PROCESS-NAME | 0        |
-| IP-CIDR      | 28       |
+| IP-CIDR      | 35       |
 | IP-CIDR6     | 0        |
 | IP-SUFFIX    | 0        |
-| **TOTAL**   | **43** |
+| **TOTAL**   | **50** |
 ## 订阅链接（每日更新）
 https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/rule/GoogleFCM/GoogleFCM.yaml
 ### 使用说明 
