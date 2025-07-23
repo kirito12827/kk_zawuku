@@ -1,8 +1,8 @@
 # 规则名称: Emby
-# 规则数量: 214
-# 同步时间: 2025年07月22日 10:21
+# 规则数量: 220
+# 同步时间: 2025年07月23日 10:22
 # DOMAIN: 14
-# DOMAIN-SUFFIX: 187
+# DOMAIN-SUFFIX: 193
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,1l1.icu
 DOMAIN-SUFFIX,20120714.xyz
 DOMAIN-SUFFIX,252798.xyz
 DOMAIN-SUFFIX,285286.xyz
+DOMAIN-SUFFIX,3767483.xyz
 DOMAIN-SUFFIX,404.sb
 DOMAIN-SUFFIX,4545.cf
 DOMAIN-SUFFIX,581658.best
@@ -66,6 +67,7 @@ DOMAIN-SUFFIX,cc.semby.ink
 DOMAIN-SUFFIX,cf.odysseyplus.site
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,cherrytv.one
+DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,cinema.facmata.net
 DOMAIN-SUFFIX,deja-vu.beauty
 DOMAIN-SUFFIX,dicarerhome.com
@@ -175,12 +177,15 @@ DOMAIN-SUFFIX,pololine.ml
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,post.cn2gias.uk
 DOMAIN-SUFFIX,pub1.emby.wtf
+DOMAIN-SUFFIX,pub1.term.wtf
 DOMAIN-SUFFIX,pub1back.emby.wtf
 DOMAIN-SUFFIX,pub1cf.emby.wtf
 DOMAIN-SUFFIX,pub2.emby.wtf
+DOMAIN-SUFFIX,pub2.term.wtf
 DOMAIN-SUFFIX,pub2back.emby.wtf
 DOMAIN-SUFFIX,pub2cf.emby.wtf
 DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub3.term.wtf
 DOMAIN-SUFFIX,pub3back.emby.wtf
 DOMAIN-SUFFIX,pub3cf.emby.wtf
 DOMAIN-SUFFIX,reddust.link
@@ -209,6 +214,7 @@ DOMAIN-SUFFIX,younoyes.com
 DOMAIN-SUFFIX,yunti.online
 DOMAIN-SUFFIX,zabc.net
 DOMAIN-SUFFIX,zi0.icu
+DOMAIN-SUFFIX,zn.al
 DOMAIN-SUFFIX,zox.show
 IP-CIDR,135.180.189.141/32,no-resolve
 IP-CIDR,152.53.54.201/32,no-resolve

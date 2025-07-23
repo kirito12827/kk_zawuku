@@ -1,17 +1,28 @@
 # 规则名称: Talkatone
-# 规则数量: 6
-# 同步时间: 2025年07月22日 10:21
+# 规则数量: 17
+# 同步时间: 2025年07月23日 10:22
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 3
+# DOMAIN-SUFFIX: 12
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
-# IP-CIDR: 3
+# IP-CIDR: 5
 # IP-CIDR6: 0
 # IP-SUFFIX: 0
 
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,mobilefuse.com
 DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,tenor.com
+DOMAIN-SUFFIX,tktn.at
 DOMAIN-SUFFIX,tktn.be
 IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,216.172.154.0/24,no-resolve
 IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,63.251.124.0/24,no-resolve
 IP-CIDR,69.46.75.0/24,no-resolve
