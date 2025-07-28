@@ -1,7 +1,7 @@
 # 规则名称: emby 
-# 规则数量: 32 
+# 规则数量: 31 
 # DOMAIN: 1 
-# DOMAIN-SUFFIX: 27 
+# DOMAIN-SUFFIX: 26 
 # DOMAIN-KEYWORD: 0 
 # PROCESS-NAME: 0 
 # IP-CIDR: 4 
@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,alist7.eu.org
 DOMAIN-SUFFIX,aliz.work
 DOMAIN-SUFFIX,anisaga.tv
 DOMAIN-SUFFIX,biliblili.uk
+DOMAIN-SUFFIX,chilledmelon.com
 DOMAIN-SUFFIX,doven.tv
 DOMAIN-SUFFIX,emby.711.lol
 DOMAIN-SUFFIX,emby.asubaka.top
@@ -34,7 +35,6 @@ DOMAIN-SUFFIX,tv.worldline.space
 DOMAIN-SUFFIX,vfing.de
 DOMAIN-SUFFIX,violet.run
 DOMAIN-SUFFIX,yunti.online
-DOMAIN-SUFFIX,chilledmelon.com
 IP-CIDR,135.180.189.141/32,no-resolve
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,152.53.55.180/32,no-resolve
