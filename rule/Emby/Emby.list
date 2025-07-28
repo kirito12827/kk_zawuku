@@ -1,15 +1,14 @@
 # 规则名称: Emby
-# 规则数量: 220
-# 同步时间: 2025年07月27日 10:31
+# 规则数量: 219
+# 同步时间: 2025年07月28日 10:27
 # DOMAIN: 14
-# DOMAIN-SUFFIX: 193
+# DOMAIN-SUFFIX: 192
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
 # IP-CIDR6: 0
 # IP-SUFFIX: 0
 
-DOMAIN,2pfdml.mobaiemby.site
 DOMAIN,cc.coemn.com
 DOMAIN,cdn1.nebula-media.org
 DOMAIN,cf-cdn1.nebula-media.org
@@ -18,6 +17,7 @@ DOMAIN,cuinf.sfcat.link
 DOMAIN,emby-cdn1.nebula-media.org
 DOMAIN,emby.nebula-media.org
 DOMAIN,emby.nekoda.de
+DOMAIN,mcdn.mobaiemby.site
 DOMAIN,notnetflix.cos.cat
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
@@ -76,7 +76,6 @@ DOMAIN-SUFFIX,e.degyax.one
 DOMAIN-SUFFIX,ednovas.org
 DOMAIN-SUFFIX,em.ssky.me
 DOMAIN-SUFFIX,emby-cf.plusmedia.site
-DOMAIN-SUFFIX,emby-myg-de.vfing.de
 DOMAIN-SUFFIX,emby-sg.plusmedia.site
 DOMAIN-SUFFIX,emby.711.lol
 DOMAIN-SUFFIX,emby.aiyowei.ml
