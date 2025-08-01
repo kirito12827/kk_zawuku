@@ -1,8 +1,8 @@
 # 规则名称: TikTok
-# 规则数量: 103
-# 同步时间: 2025年07月31日 10:23
-# DOMAIN: 37
-# DOMAIN-SUFFIX: 56
+# 规则数量: 106
+# 同步时间: 2025年08月01日 10:35
+# DOMAIN: 38
+# DOMAIN-SUFFIX: 58
 # DOMAIN-KEYWORD: 9
 # PROCESS-NAME: 1
 # IP-CIDR: 0
@@ -47,6 +47,7 @@ payload:
   - DOMAIN,pull-rtmp-l1-mus.pstatp.com
   - DOMAIN,pull-rtmp-l6-hs.pstatp.com
   - DOMAIN,roovza-launches.appsflyersdk.com
+  - DOMAIN,trae-api-sg.mchost.guru
   - DOMAIN-SUFFIX,bytedance.com
   - DOMAIN-SUFFIX,bytedance.net
   - DOMAIN-SUFFIX,bytedapm.com
@@ -58,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,byteigtm.com
   - DOMAIN-SUFFIX,byteintl.com
   - DOMAIN-SUFFIX,byteintl.net
+  - DOMAIN-SUFFIX,byteintlapi.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,byteoversea.net
   - DOMAIN-SUFFIX,bytetcdn.com
@@ -66,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,ibyteimg.com
   - DOMAIN-SUFFIX,ipstatp.com
   - DOMAIN-SUFFIX,isnssdk.com
+  - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,muscdn.com
   - DOMAIN-SUFFIX,musemuse.cn
   - DOMAIN-SUFFIX,musical.ly
