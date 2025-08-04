@@ -1,8 +1,8 @@
 # 规则名称: Talkatone
-# 规则数量: 17
-# 同步时间: 2025年08月03日 10:33
+# 规则数量: 16
+# 同步时间: 2025年08月04日 10:33
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 12
+# DOMAIN-SUFFIX: 11
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 5
@@ -15,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,inmobi.com
   - DOMAIN-SUFFIX,inner-active.mobi
-  - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,kochava.com
   - DOMAIN-SUFFIX,mobilefuse.com
   - DOMAIN-SUFFIX,talkatone.com

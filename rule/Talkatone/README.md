@@ -1,18 +1,18 @@
 # Talkatone
 
 ## 规则统计
-最后同步时间: 2025年08月03日 10:33
+最后同步时间: 2025年08月04日 10:33
 
 | 类型        | 数量(条) |
 | ----------- | -------- |
 | DOMAIN       | 0        |
-| DOMAIN-SUFFIX | 12       |
+| DOMAIN-SUFFIX | 11       |
 | DOMAIN-KEYWORD | 0        |
 | PROCESS-NAME | 0        |
 | IP-CIDR      | 5        |
 | IP-CIDR6     | 0        |
 | IP-SUFFIX    | 0        |
-| **TOTAL**   | **17** |
+| **TOTAL**   | **16** |
 ## 订阅链接（每日更新）
 https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/rule/Talkatone/Talkatone.yaml
 ### 使用说明 
