@@ -1,18 +1,18 @@
 # TikTok
 
 ## 规则统计
-最后同步时间: 2025年08月09日 10:07
+最后同步时间: 2025年08月10日 10:29
 
 | 类型        | 数量(条) |
 | ----------- | -------- |
 | DOMAIN       | 38       |
-| DOMAIN-SUFFIX | 58       |
+| DOMAIN-SUFFIX | 59       |
 | DOMAIN-KEYWORD | 9        |
 | PROCESS-NAME | 1        |
 | IP-CIDR      | 0        |
 | IP-CIDR6     | 0        |
 | IP-SUFFIX    | 0        |
-| **TOTAL**   | **106** |
+| **TOTAL**   | **107** |
 ## 订阅链接（每日更新）
 https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/rule/TikTok/TikTok.yaml
 ### 使用说明 
