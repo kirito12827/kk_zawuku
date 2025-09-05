@@ -1,8 +1,8 @@
 # 规则名称: OpenAi
-# 规则数量: 37
-# 同步时间: 2025年09月04日 09:50
+# 规则数量: 35
+# 同步时间: 2025年09月05日 09:53
 # DOMAIN: 7
-# DOMAIN-SUFFIX: 26
+# DOMAIN-SUFFIX: 24
 # DOMAIN-KEYWORD: 1
 # PROCESS-NAME: 0
 # IP-CIDR: 2
@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -39,7 +38,6 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai

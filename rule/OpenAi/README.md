@@ -1,18 +1,18 @@
 # OpenAi
 
 ## 规则统计
-最后同步时间: 2025年09月04日 09:50
+最后同步时间: 2025年09月05日 09:53
 
 | 类型        | 数量(条) |
 | ----------- | -------- |
 | DOMAIN       | 7        |
-| DOMAIN-SUFFIX | 26       |
+| DOMAIN-SUFFIX | 24       |
 | DOMAIN-KEYWORD | 1        |
 | PROCESS-NAME | 0        |
 | IP-CIDR      | 2        |
 | IP-CIDR6     | 0        |
 | IP-SUFFIX    | 0        |
-| **TOTAL**   | **37** |
+| **TOTAL**   | **35** |
 ## 订阅链接（每日更新）
 https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/rule/OpenAi/OpenAi.yaml
 ### 使用说明 
