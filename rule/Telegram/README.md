@@ -1,7 +1,7 @@
 # Telegram
 
 ## 规则统计
-最后同步时间: 2025年09月09日 09:55
+最后同步时间: 2025年09月10日 09:51
 
 | 类型        | 数量(条) |
 | ----------- | -------- |
@@ -9,10 +9,10 @@
 | DOMAIN-SUFFIX | 22       |
 | DOMAIN-KEYWORD | 1        |
 | PROCESS-NAME | 6        |
-| IP-CIDR      | 4        |
+| IP-CIDR      | 6        |
 | IP-CIDR6     | 4        |
 | IP-SUFFIX    | 0        |
-| **TOTAL**   | **44** |
+| **TOTAL**   | **46** |
 ## 订阅链接（每日更新）
 https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/rule/Telegram/Telegram.yaml
 ### 使用说明 
