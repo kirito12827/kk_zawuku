@@ -1,18 +1,18 @@
 # Twitter
 
 ## 规则统计
-最后同步时间: 2025年09月27日 09:49
+最后同步时间: 2025年09月28日 10:03
 
 | 类型        | 数量(条) |
 | ----------- | -------- |
 | DOMAIN       | 0        |
-| DOMAIN-SUFFIX | 25       |
+| DOMAIN-SUFFIX | 26       |
 | DOMAIN-KEYWORD | 1        |
 | PROCESS-NAME | 0        |
 | IP-CIDR      | 6        |
 | IP-CIDR6     | 0        |
 | IP-SUFFIX    | 0        |
-| **TOTAL**   | **32** |
+| **TOTAL**   | **33** |
 ## 订阅链接（每日更新）
 https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/rule/Twitter/Twitter.yaml
 ### 使用说明 
