@@ -1,7 +1,7 @@
 # 规则名称: emby 
-# 规则数量: 31 
+# 规则数量: 33 
 # DOMAIN: 1 
-# DOMAIN-SUFFIX: 26 
+# DOMAIN-SUFFIX: 28 
 # DOMAIN-KEYWORD: 0 
 # PROCESS-NAME: 0 
 # IP-CIDR: 4 
@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,j8.work
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,moyuancn.vip
 DOMAIN-SUFFIX,mxtvf.cn
+DOMAIN-SUFFIX,nubebelle.cn
+DOMAIN-SUFFIX,nubebelle.vip
 DOMAIN-SUFFIX,onatoshi.114514.quest
 DOMAIN-SUFFIX,pcmhub.org
 DOMAIN-SUFFIX,pilipiliultra.com
@@ -39,5 +41,3 @@ IP-CIDR,135.180.189.141/32,no-resolve
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,152.53.55.180/32,no-resolve
 IP-CIDR,46.3.109.178/32,no-resolve
-DOMAIN-SUFFIX,nubebelle.cn
-DOMAIN-SUFFIX,nubebelle.vip
