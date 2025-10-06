@@ -11,7 +11,7 @@
   "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/DownloadCDN_CN.list"
   ],
   "Emby.list": [
-  "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Emby.list",
+  "https://raw.githubusercontent.com/Repcz/Tool/X/mihomo/Rules/Emby.list",
   "https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/user_rule/emby.list"
   ],
   "Talkatone.list": [
