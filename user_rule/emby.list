@@ -39,3 +39,5 @@ IP-CIDR,135.180.189.141/32,no-resolve
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,152.53.55.180/32,no-resolve
 IP-CIDR,46.3.109.178/32,no-resolve
+DOMAIN-SUFFIX,nubebelle.cn
+DOMAIN-SUFFIX,nubebelle.vip
