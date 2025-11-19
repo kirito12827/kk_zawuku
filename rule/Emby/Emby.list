@@ -1,8 +1,8 @@
 # 规则名称: Emby
-# 规则数量: 223
-# 同步时间: 2025年11月18日 10:02
+# 规则数量: 224
+# 同步时间: 2025年11月19日 09:57
 # DOMAIN: 14
-# DOMAIN-SUFFIX: 196
+# DOMAIN-SUFFIX: 197
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -166,6 +166,7 @@ DOMAIN-SUFFIX,nubebelle.cn
 DOMAIN-SUFFIX,nubebelle.vip
 DOMAIN-SUFFIX,nvidia.rip
 DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,okemby.org
 DOMAIN-SUFFIX,onatoshi.114514.quest
 DOMAIN-SUFFIX,onyra.cc
 DOMAIN-SUFFIX,ouonet.org
