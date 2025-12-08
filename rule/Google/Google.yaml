@@ -1,8 +1,8 @@
 # 规则名称: Google
-# 规则数量: 707
-# 同步时间: 2025年12月07日 10:21
+# 规则数量: 708
+# 同步时间: 2025年12月08日 10:07
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 690
+# DOMAIN-SUFFIX: 691
 # DOMAIN-KEYWORD: 5
 # PROCESS-NAME: 6
 # IP-CIDR: 4
@@ -149,6 +149,7 @@ payload:
   - DOMAIN-SUFFIX,bumptop.net
   - DOMAIN-SUFFIX,bumptop.org
   - DOMAIN-SUFFIX,bumptunes.com
+  - DOMAIN-SUFFIX,c.gle
   - DOMAIN-SUFFIX,campuslondon.com
   - DOMAIN-SUFFIX,capitalg.com
   - DOMAIN-SUFFIX,certificate-transparency.dev
