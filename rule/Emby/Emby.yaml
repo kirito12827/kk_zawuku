@@ -1,7 +1,7 @@
 # 规则名称: Emby
-# 规则数量: 225
-# 同步时间: 2025年12月27日 10:07
-# DOMAIN: 15
+# 规则数量: 227
+# 同步时间: 2025年12月28日 10:28
+# DOMAIN: 17
 # DOMAIN-SUFFIX: 197
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
@@ -18,11 +18,13 @@ payload:
   - DOMAIN,emby-cdn1.nebula-media.org
   - DOMAIN,emby.nebula-media.org
   - DOMAIN,emby.nekoda.de
+  - DOMAIN,global.uhdnow.com
   - DOMAIN,m.mobaiemby.site
   - DOMAIN,mcdn.mobaiemby.site
   - DOMAIN,notnetflix.cos.cat
   - DOMAIN,starharn-cf.nebula-media.org
   - DOMAIN,starharn.nebula-media.org
+  - DOMAIN,v1.uhdnow.com
   - DOMAIN,web-starharn.nebula-media.org
   - DOMAIN,web.nebula-media.org
   - DOMAIN-SUFFIX,114514.quest
