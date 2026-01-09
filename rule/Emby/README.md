@@ -1,18 +1,18 @@
 # Emby
 
 ## 规则统计
-最后同步时间: 2026年01月08日 10:19
+最后同步时间: 2026年01月09日 10:20
 
 | 类型        | 数量(条) |
 | ----------- | -------- |
-| DOMAIN       | 17       |
+| DOMAIN       | 15       |
 | DOMAIN-SUFFIX | 197      |
 | DOMAIN-KEYWORD | 0        |
 | PROCESS-NAME | 0        |
 | IP-CIDR      | 13       |
 | IP-CIDR6     | 0        |
 | IP-SUFFIX    | 0        |
-| **TOTAL**   | **227** |
+| **TOTAL**   | **225** |
 ## 订阅链接（每日更新）
 https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/rule/Emby/Emby.yaml
 ### 使用说明 
