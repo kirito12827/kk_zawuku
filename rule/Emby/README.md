@@ -1,12 +1,12 @@
 # Emby
 
 ## 规则统计
-最后同步时间: 2026年05月01日 12:02
+最后同步时间: 2026年05月02日 11:36
 
 | 类型        | 数量(条) |
 | ----------- | -------- |
-| DOMAIN       | 14       |
-| DOMAIN-SUFFIX | 198      |
+| DOMAIN       | 13       |
+| DOMAIN-SUFFIX | 199      |
 | DOMAIN-KEYWORD | 0        |
 | PROCESS-NAME | 0        |
 | IP-CIDR      | 13       |

@@ -1,8 +1,8 @@
 # 规则名称: Emby
 # 规则数量: 225
-# 同步时间: 2026年05月01日 12:02
-# DOMAIN: 14
-# DOMAIN-SUFFIX: 198
+# 同步时间: 2026年05月02日 11:36
+# DOMAIN: 13
+# DOMAIN-SUFFIX: 199
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -10,7 +10,6 @@
 # IP-SUFFIX: 0
 
 payload:
-  - DOMAIN,DOMIN-SUFFIX,mobaiemby.site
   - DOMAIN,cc.coemn.com
   - DOMAIN,cdn1.nebula-media.org
   - DOMAIN,cf-cdn1.nebula-media.org
@@ -153,6 +152,7 @@ payload:
   - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,mius.uk
   - DOMAIN-SUFFIX,mjjemby.org
+  - DOMAIN-SUFFIX,mobaiemby.site
   - DOMAIN-SUFFIX,movie.xeton.dev
   - DOMAIN-SUFFIX,moyuancn.vip
   - DOMAIN-SUFFIX,mulgore.net
