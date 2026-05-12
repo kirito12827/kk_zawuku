@@ -1,18 +1,18 @@
 # Google
 
 ## 规则统计
-最后同步时间: 2026年05月11日 12:10
+最后同步时间: 2026年05月12日 11:54
 
 | 类型        | 数量(条) |
 | ----------- | -------- |
 | DOMAIN       | 1        |
-| DOMAIN-SUFFIX | 691      |
+| DOMAIN-SUFFIX | 684      |
 | DOMAIN-KEYWORD | 5        |
 | PROCESS-NAME | 6        |
 | IP-CIDR      | 4        |
 | IP-CIDR6     | 1        |
 | IP-SUFFIX    | 0        |
-| **TOTAL**   | **708** |
+| **TOTAL**   | **701** |
 ## 订阅链接（每日更新）
 https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/rule/Google/Google.yaml
 ### 使用说明 
