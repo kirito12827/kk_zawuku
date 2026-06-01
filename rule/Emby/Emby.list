@@ -1,8 +1,8 @@
 # 规则名称: Emby
-# 规则数量: 225
-# 同步时间: 2026年05月31日 12:40
-# DOMAIN: 13
-# DOMAIN-SUFFIX: 199
+# 规则数量: 223
+# 同步时间: 2026年06月01日 13:02
+# DOMAIN: 10
+# DOMAIN-SUFFIX: 200
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -12,12 +12,9 @@
 DOMAIN,cc.coemn.com
 DOMAIN,cdn1.nebula-media.org
 DOMAIN,cf-cdn1.nebula-media.org
-DOMAIN,cminf.sfcat.link
-DOMAIN,cuinf.sfcat.link
 DOMAIN,emby-cdn1.nebula-media.org
 DOMAIN,emby.nebula-media.org
 DOMAIN,emby.nekoda.de
-DOMAIN,notnetflix.cos.cat
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
 DOMAIN,web-starharn.nebula-media.org
@@ -141,6 +138,7 @@ DOMAIN-SUFFIX,j8.work
 DOMAIN-SUFFIX,jellyfin.xeton.dev
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,line.emby.men
+DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,lucasmedia.top
 DOMAIN-SUFFIX,lyrebirdemby.com
