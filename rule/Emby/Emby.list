@@ -1,8 +1,8 @@
 # 规则名称: Emby
-# 规则数量: 223
-# 同步时间: 2026年06月02日 12:48
+# 规则数量: 221
+# 同步时间: 2026年06月03日 12:59
 # DOMAIN: 10
-# DOMAIN-SUFFIX: 200
+# DOMAIN-SUFFIX: 198
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,cherrytv.one
 DOMAIN-SUFFIX,chilledmelon.com
 DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,cinema.facmata.net
+DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,deja-vu.beauty
 DOMAIN-SUFFIX,dicarerhome.com
 DOMAIN-SUFFIX,doven.tv
@@ -79,7 +80,6 @@ DOMAIN-SUFFIX,emby.asubaka.top
 DOMAIN-SUFFIX,emby.bid
 DOMAIN-SUFFIX,emby.cjpc.cc
 DOMAIN-SUFFIX,emby.cl
-DOMAIN-SUFFIX,emby.cn2gias.uk
 DOMAIN-SUFFIX,emby.date
 DOMAIN-SUFFIX,emby.eu.org
 DOMAIN-SUFFIX,emby.flowercloud
@@ -138,7 +138,6 @@ DOMAIN-SUFFIX,j8.work
 DOMAIN-SUFFIX,jellyfin.xeton.dev
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,line.emby.men
-DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,lucasmedia.top
 DOMAIN-SUFFIX,lyrebirdemby.com
@@ -175,7 +174,6 @@ DOMAIN-SUFFIX,pilipiliultra.top
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
 DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,post.cn2gias.uk
 DOMAIN-SUFFIX,pub1.emby.wtf
 DOMAIN-SUFFIX,pub1.term.wtf
 DOMAIN-SUFFIX,pub1back.emby.wtf
