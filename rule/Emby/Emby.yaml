@@ -1,8 +1,8 @@
 # 规则名称: Emby
-# 规则数量: 221
-# 同步时间: 2026年06月05日 12:26
+# 规则数量: 222
+# 同步时间: 2026年06月06日 12:09
 # DOMAIN: 10
-# DOMAIN-SUFFIX: 198
+# DOMAIN-SUFFIX: 199
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -130,6 +130,7 @@ payload:
   - DOMAIN-SUFFIX,gtlx.org
   - DOMAIN-SUFFIX,gugumedia.link
   - DOMAIN-SUFFIX,happyav.eu.org
+  - DOMAIN-SUFFIX,hgemby.qzz.io
   - DOMAIN-SUFFIX,hovervan.org
   - DOMAIN-SUFFIX,i109.com
   - DOMAIN-SUFFIX,ii00.cc
