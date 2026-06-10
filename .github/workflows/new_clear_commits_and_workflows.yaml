@@ -13,7 +13,7 @@ jobs:
     steps:
       # 第一步：检出仓库
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: clash
           fetch-depth: 0
