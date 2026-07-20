@@ -1,8 +1,8 @@
 # 规则名称: Emby
-# 规则数量: 222
-# 同步时间: 2026年07月19日 11:34
+# 规则数量: 223
+# 同步时间: 2026年07月20日 11:49
 # DOMAIN: 10
-# DOMAIN-SUFFIX: 199
+# DOMAIN-SUFFIX: 200
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -121,6 +121,7 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN-SUFFIX,embyserver.ga
   - DOMAIN-SUFFIX,embytv.cf
+  - DOMAIN-SUFFIX,feimu.tv
   - DOMAIN-SUFFIX,feiniu.lol
   - DOMAIN-SUFFIX,free.28.al
   - DOMAIN-SUFFIX,freetz.top
