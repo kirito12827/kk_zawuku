@@ -8,7 +8,7 @@
   "https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/user_rule/GoogleFCM.list"
   ],
   "DownloadCDN_CN.list": [
-  "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/DownloadCDN_CN.list"
+  "https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/DownloadCDN_CN.list",
   "https://raw.githubusercontent.com/kirito12827/kk_zawuku/clash/user_rule/steam_CN.list"
   ],
   "Emby.list": [
