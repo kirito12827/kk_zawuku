@@ -1,8 +1,8 @@
 # 规则名称: TikTok
-# 规则数量: 32
-# 同步时间: 2026年10月15日 12:16
+# 规则数量: 35
+# 同步时间: 2026年10月16日 12:12
 # DOMAIN: 4
-# DOMAIN-SUFFIX: 25
+# DOMAIN-SUFFIX: 28
 # DOMAIN-KEYWORD: 2
 # PROCESS-NAME: 1
 # IP-CIDR: 0
@@ -19,6 +19,9 @@ payload:
   - DOMAIN-SUFFIX,byteintlapi.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,capcut.com
+  - DOMAIN-SUFFIX,capcutapi.com
+  - DOMAIN-SUFFIX,capcutapi.us
+  - DOMAIN-SUFFIX,capcutstatic.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ibyteimg.com
   - DOMAIN-SUFFIX,ipstatp.com
