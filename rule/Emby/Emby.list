@@ -1,8 +1,8 @@
 # 规则名称: Emby
-# 规则数量: 223
-# 同步时间: 2026年10月24日 12:16
+# 规则数量: 224
+# 同步时间: 2026年10月24日 15:18
 # DOMAIN: 10
-# DOMAIN-SUFFIX: 200
+# DOMAIN-SUFFIX: 201
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,chilledmelon.com
 DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,cinema.facmata.net
 DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,covh.eu.org
 DOMAIN-SUFFIX,deja-vu.beauty
 DOMAIN-SUFFIX,dicarerhome.com
 DOMAIN-SUFFIX,doven.tv
