@@ -1,8 +1,8 @@
 # 规则名称: Emby
-# 规则数量: 224
-# 同步时间: 2026年10月25日 12:19
+# 规则数量: 225
+# 同步时间: 2026年10月26日 01:34
 # DOMAIN: 10
-# DOMAIN-SUFFIX: 201
+# DOMAIN-SUFFIX: 202
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -215,6 +215,7 @@ DOMAIN-SUFFIX,wiri.tk
 DOMAIN-SUFFIX,xiaoyi.one
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,younoyes.com
+DOMAIN-SUFFIX,yuanshen.help
 DOMAIN-SUFFIX,yunti.online
 DOMAIN-SUFFIX,zabc.net
 DOMAIN-SUFFIX,zi0.icu
