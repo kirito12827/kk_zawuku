@@ -1,8 +1,8 @@
 # 规则名称: Emby
-# 规则数量: 225
-# 同步时间: 2026年10月27日 12:42
+# 规则数量: 227
+# 同步时间: 2026年10月28日 07:27
 # DOMAIN: 10
-# DOMAIN-SUFFIX: 202
+# DOMAIN-SUFFIX: 204
 # DOMAIN-KEYWORD: 0
 # PROCESS-NAME: 0
 # IP-CIDR: 13
@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,feimu.tv
 DOMAIN-SUFFIX,feiniu.lol
 DOMAIN-SUFFIX,free.28.al
 DOMAIN-SUFFIX,freetz.top
+DOMAIN-SUFFIX,ftp2.eu.org
 DOMAIN-SUFFIX,gfwemby.org
 DOMAIN-SUFFIX,ggtt.cf
 DOMAIN-SUFFIX,goodisp.org
@@ -221,6 +222,7 @@ DOMAIN-SUFFIX,zabc.net
 DOMAIN-SUFFIX,zi0.icu
 DOMAIN-SUFFIX,zn.al
 DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,zzm.li
 IP-CIDR,135.180.189.141/32,no-resolve
 IP-CIDR,152.53.54.201/32,no-resolve
 IP-CIDR,152.53.55.180/32,no-resolve
